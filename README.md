@@ -1,11 +1,11 @@
 # Pikeperch Transcriptome Sequencing and Analysis
 
 
-# Introduction
+## Introduction
 
 This repository contains all the scripts, relevant resources to perform multi-tissue transcriptome assembly,tissue expression atlas, co-expression and positive selction analyses in pikeperch (*Sander lucioperca*).
 
-# Sampling and RNA Sequencing Data
+## Sampling and RNA Sequencing Data
 
 | Pool-Nr | Sample name | Tissue type | Pooled tissue samples |
 |---------|-------------|-------------|-----------------------|
