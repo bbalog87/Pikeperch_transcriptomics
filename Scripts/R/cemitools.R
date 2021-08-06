@@ -6,6 +6,8 @@ library(data.table)
 library(STRINGdb)
 library(ggrepel)
 
+
+## Input data 
 cem.gmt<-gmt_input
 cem.metadata<-samples_metadata
 colnames(cem.metadata[,3:12])<-Tissues[1:10]
