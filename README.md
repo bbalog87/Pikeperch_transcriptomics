@@ -2,7 +2,7 @@
 Multi-tissue transcriptome assembly of pikeperch, tissue expression atlas, co-expression and positive selction analyses
 This repository contains all the scripts to complete multitissue RNA-seq analysis of *Sander lucioperca*.
 
-**RNA Sequencing data**
+**Sampling and RNA Sequencing Data**
 
 | Pool-Nr | Sample name | Tissue type | Pooled tissue samples |
 |---------|-------------|-------------|-----------------------|
