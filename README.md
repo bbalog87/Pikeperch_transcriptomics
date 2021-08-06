@@ -2,6 +2,7 @@
 Multi-tissue transcriptome assembly of pikeperch, tissue expression atlas, co-expression and positive selction analyses
 This repository contains all the scripts to complete multitissue RNA-seq analysis of *Sander lucioperca*.
 
+**RNA Sequencig data**
 
 | Pool-Nr | Sample name | Tissue type | Pooled tissue samples |
 |---------|-------------|-------------|-----------------------|
@@ -16,7 +17,7 @@ This repository contains all the scripts to complete multitissue RNA-seq analysi
 | P9      | SL09        | Testis      | S34, S35, S69, S72    |
 | P10     | SL10        | Heart       | S37, S38, S39, S40    |
 | P11     | SL11        | Head kidney | S42, S43, S44         |
-| P12     | SL12        | Muscle      | S45, S46, S47,        |
+| P12     | SL12        | Muscle      | S45, S46, S47       |
 | P13     | SL13        | Liver       | S49, S50, S51, S52    |
 | P14     | SL14        | Skin        | S53, S54,S55, S56     |
 | P15     | SL15        | Gills       | S57, S58, S59, S60    |
