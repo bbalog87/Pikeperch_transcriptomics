@@ -1,4 +1,4 @@
-## Sampling and RNA Sequencing Data
+## Sampling and Libraries
 
 | Pool-Nr | Sample name | Tissue type | Pooled tissue samples |
 |---------|-------------|-------------|-----------------------|
@@ -20,3 +20,7 @@
 | P16     | SL16        | Brain       | S61, S62, S63, S64    |
 | P17     | SL17        | Spleen      | S65, S66, S67, S68    |
 | P18     | SL18        | Ovary       | S36, S70, S81         |
+
+## RNA Sequencing Data
+Raw RNA-seq sequencing data are available at NCBI under BioProject PRJNA752979.
+
