@@ -22,5 +22,5 @@
 | P18     | SL18        | Ovary       | S36, S70, S81         |
 
 ## RNA Sequencing Data
-Raw RNA-seq sequencing data are available at NCBI under BioProject PRJNA752979.
+Raw RNA-seq data are openly available at NCBI under BioProject PRJNA752979.
 
